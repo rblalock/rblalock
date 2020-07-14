@@ -7,10 +7,10 @@
 - [LinkedIn](https://www.linkedin.com/in/rickblalock/)
 
 ## 🚀 Some places I've been
-[![Appcelerator](images/appc.jpg)](https://appcelerator.com)
-[![Pinpoint](images/pinpoint.jpg)](https://pinpoint.com)
-[![IBM](images/ibm.jpg)](https://ibm.com)
-[![Levatas](images/levatas.jpg)](https://levatas.com)
+[![Appcelerator](https://raw.githubusercontent.com/rblalock/rblalock/master/images/appc.jpg)](https://appcelerator.com)
+[![Pinpoint](https://raw.githubusercontent.com/rblalock/rblalock/master/images/pinpoint.jpg)](https://pinpoint.com)
+[![IBM](https://raw.githubusercontent.com/rblalock/rblalock/master/images/ibm.jpg)](https://ibm.com)
+[![Levatas](https://raw.githubusercontent.com/rblalock/rblalock/master/images/levatas.jpg)](https://levatas.com)
 
 ## 🔬 Fun things I'm using right now
 - [Vercel](https://vercel.com)
