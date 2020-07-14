@@ -3,6 +3,8 @@
 - 👾 [Personal Website](https://www.richardblalock.com/)
 - 🚀 [Friction Log](https://frictionlog.com/)
 - 🐠 [Fish Rules](https://fishrulesapp.com/)
+- [Twitter](https://twitter.com/rblalock)
+- [LinkedIn](https://www.linkedin.com/in/rickblalock/)
 
 ## 🚀 Some places I've been
 [![Appcelerator](images/appc.jpg)](https://appcelerator.com)
