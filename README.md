@@ -21,7 +21,7 @@
 
 ## 🗺️ Fun things I've done
 
-[![Fish Rules](images/fishrules.jpg)](https://fishrulesapp.com)
+[![Fish Rules](https://raw.githubusercontent.com/rblalock/rblalock/master/images/fishrules.jpg)](https://fishrulesapp.com)
 
 [Fish Rules](https://fishrulesapp.com) simplifies saltwater fishing regulations into an easy to understand format. With a glance, know if a fish is in season, how many you can keep, how big they have to be, and more.
 
