@@ -7,10 +7,10 @@
 - [LinkedIn](https://www.linkedin.com/in/rickblalock/)
 
 ## 🚀  Some places I've been
-[![Appcelerator](https://raw.githubusercontent.com/rblalock/rblalock/master/images/appc.jpg)](https://appcelerator.com)
-[![Pinpoint](https://raw.githubusercontent.com/rblalock/rblalock/master/images/pinpoint.jpg)](https://pinpoint.com)
-[![IBM](https://raw.githubusercontent.com/rblalock/rblalock/master/images/ibm.jpg)](https://ibm.com)
-[![Levatas](https://raw.githubusercontent.com/rblalock/rblalock/master/images/levatas.jpg)](https://levatas.com)
+- [Appcelerator](https://appcelerator.com)
+- [Pinpoint](https://pinpoint.com)
+- [IBM](https://ibm.com)
+- [Levatas](https://levatas.com)
 
 ## 🔬  Fun things I'm using right now
 - [Vercel](https://vercel.com)
@@ -21,7 +21,7 @@
 
 ## 🗺️  Fun things I've done
 
-[![Fish Rules](https://raw.githubusercontent.com/rblalock/rblalock/master/images/fishrules.jpg)](https://fishrulesapp.com)
+### :fish: Fish Rules
 
 [Fish Rules](https://fishrulesapp.com) simplifies saltwater fishing regulations into an easy to understand format. With a glance, know if a fish is in season, how many you can keep, how big they have to be, and more.
 
