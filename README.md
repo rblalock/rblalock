@@ -1,3 +1,5 @@
+![Rick Blalock](images/banner.svg)
+
 # :wave: Hi there!
 
 - 👾  [Personal Website](https://www.richardblalock.com/)
@@ -7,12 +9,14 @@
 - [LinkedIn](https://www.linkedin.com/in/rickblalock/)
 
 ## 🚀  Some places I've been
+
 - [Appcelerator](https://appcelerator.com)
 - [Pinpoint](https://pinpoint.com)
 - [IBM](https://ibm.com)
 - [Levatas](https://levatas.com)
 
 ## 🔬  Fun things I'm using right now
+
 - [Vercel](https://vercel.com)
 - [NextJS](https://nextjs.com)
 - [GraphCMS](https://graphcms.com)
