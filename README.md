@@ -1,5 +1,3 @@
-![Rick Blalock](images/banner.svg)
-
 # :wave: Hi there!
 
 - 👾  [Personal Website](https://www.richardblalock.com/)
