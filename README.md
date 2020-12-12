@@ -1,6 +1,6 @@
 # :wave: Hi there!
 
-- 👾  [Personal Website](https://www.richardblalock.com/)
+- 👾  [Personal Website](https://rickblalock.dev)
 - 🚀  [Friction Log](https://frictionlog.com/)
 - 🐠  [Fish Rules](https://fishrulesapp.com/)
 - [Twitter](https://twitter.com/rblalock)
