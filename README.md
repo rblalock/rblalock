@@ -27,8 +27,6 @@
 
 [Fish Rules](https://fishrulesapp.com) simplifies saltwater fishing regulations into an easy to understand format. With a glance, know if a fish is in season, how many you can keep, how big they have to be, and more.
 
-Fish Rules has grown to 200,000 MAU's (monthly active users) and is the official app of NOAA and a few state agencies.
-
 ### 🐉  Dragon Shout App
 
 Dragon Shout App was a fun project turned viral and featured on most major gaming websites and magazines. The app was a companion app for Skyrim and the Elder Scrolls games.
