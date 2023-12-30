@@ -8,7 +8,7 @@
 
 ## 🚀  Some places I've been
 
-- [Fishbrain](https://fishbrain.com) Moved here after selling to them.  Dir of Product -> CPO
+- [Fishbrain](https://fishbrain.com) Moved here after I sold a company I started (Fish Rules) to them.  Dir of Product -> CPO
 - Pinpoint (Engineering performance management) as a principle engineer
 - [Levatas](https://levatas.com) Director of Engineering
 - [IBM](https://ibm.com) as a Cloud API solution architect
