@@ -1,25 +1,10 @@
 # :wave: Hi there!
 
 - 👾  [Personal Website](https://rickblalock.dev)
-- 🚀  [Infrequent podcast: Friction Log](https://frictionlog.com/)
-- 🐠  Started and sold this recently: [Fish Rules](https://fishrulesapp.com/)
+- 🚀  [Working on the AI agent-native cloud](https://agentuity.com/)
+- 🐠  Started and sold this a few years ago: [Fish Rules](https://fishrulesapp.com/)
 - [Twitter](https://twitter.com/rblalock)
 - [LinkedIn](https://www.linkedin.com/in/rickblalock/)
-
-## 🚀  Some places I've been
-
-- [Fishbrain](https://fishbrain.com) Moved here after I sold a company I started (Fish Rules) to them.  Dir of Product -> CPO
-- Pinpoint (Engineering performance management) as a principle engineer
-- [Levatas](https://levatas.com) Director of Engineering
-- [IBM](https://ibm.com) as a Cloud API solution architect
-- Appcelerator (Now part of Axway) [link](https://www.axway.com/en) as an app engineer to director of product
-
-## 🔬  Fun things I'm using right now
-
-- [NextJS](https://nextjs.com)
-- [Rust](https://www.rust-lang.org/)
-- [Supabase](https://supabase.com/)
-- Lots of generative AI
 
 ## 🗺️  Fun things I've done
 
