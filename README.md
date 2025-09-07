@@ -6,7 +6,7 @@
 - [Twitter](https://twitter.com/rblalock)
 - [LinkedIn](https://www.linkedin.com/in/rickblalock/)
 
-## 🗺️  Fun things I've done
+## 🗺️  Fun things side things I've done
 
 ### :fish: Fish Rules -> Fishbrain
 
